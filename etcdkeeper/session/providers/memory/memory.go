@@ -2,7 +2,7 @@ package memory
 
 import (
 	"container/list"
-	"github.com/alicankustemur/etcdkeeper/session"
+	"etcdkeeper/session"
 	"sync"
 	"time"
 )
